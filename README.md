@@ -301,15 +301,3 @@ Want to create your own personalised study material?
 👉 https://brave-smart-study-sync.base44.app/
 
 Enter a topic, choose your difficulty level, select how you want to study, and let **StudyBuddy AI** create your learning material. 📚🤖
-
----
-
-## 👩‍💻 Project
-
-StudyBuddy AI was developed as a **CAPACITI project** exploring how Generative AI can be used to create personalised and accessible educational experiences.
-
-The project combines **React, AI, prompt engineering, structured outputs, and digital learning tools** to demonstrate how AI can support students and self-directed learners.
-
----
-
-> **StudyBuddy AI — Learn smarter. Study your way. 🚀📚**
